@@ -52,7 +52,7 @@ Primary value: compress strategic decision cycles while preserving assumption tr
 **Tech Stack:**
 - Google AI Studio
 
-[View Project →](./DH_EdtechStartup/)
+
 
 ---
 
